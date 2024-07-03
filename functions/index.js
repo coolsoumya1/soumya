@@ -9,9 +9,9 @@ $$ = (e) => {
 };
 
 const userInfo = {
-  name: "PRABHSIMRAN SINGH",
-  address: "rajavirdi2001@gmail.com",
-  phone: "+91 7696453597",
+  name: "SOUMYA CHATTOPADHYAY",
+  address: "coolsoumya7592@gmail.com",
+  phone: "+91 8350031971",
   about:
     " Enthusiastic and dedicated Civil Engineer with hands-on experience in both planning and execution. Proficient in using a range of software tools, including AutoCAD, STAAD Pro, Microsoft Office, SAP NetWeaver, 3ds Max, V-Ray, and Adobe Photoshop. Possess good analytical skills and the ability to efficiently manage tasks and projects. Highly motivated to bring my technical expertise and passion for civil engineering to a dynamic and innovative team. Committed to staying updated with latest trends for efficient solutions. ",
 };
